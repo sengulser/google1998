@@ -1,0 +1,43 @@
+.header {
+    margin-top:14px;
+    margin-bottom:7px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#color1{
+    background-color:#EEEEEE;
+
+}
+#color2{
+    background-color:#7EE5DA;
+    font-size:16px;
+}
+#color3 {
+    background-color: #70CCC2;
+    font-size: 13px;
+}
+#color4 {
+    background-color: #62B3AA;
+    font-size: 13px;
+}
+.centered-table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+.centered-table td {
+    border: 2px solid white;
+    text-align: center;
+}
+.center {
+    width: 100%;
+}
+p{
+    font-size:13px;
+    text-align:center;
+}
+.between{
+    margin-right:8px;
+}
